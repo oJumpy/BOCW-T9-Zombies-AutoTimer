@@ -1,5 +1,5 @@
 
-# [Download v2.0](https://github.com/oJumpy/BOCW-T9-Zombies-AutoTimer/releases/latest/download/Cold.War-Master.asl)
+# [Download v2.0](https://github.com/oJumpy/BOCW-T9-Zombies-AutoTimer/releases/latest)
 
 ## BOCW-T9-Zombies-AutoTimer
 A LiveSplit script for Call of Duty: Black Ops Cold War Zombies. 
